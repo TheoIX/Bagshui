@@ -164,17 +164,3 @@ If Bagshui has not been localized for your client, many items will not be correc
 
 * English (enUS)
 * Chinese (zhCN)
-
-[^1]: In Vanilla, a *lot* of item identification must be done either by parsing tooltips or hardcoding item IDs. Bagshui leans toward the former, and therefore is highly dependent on localization.
-
-
-## Credits
-
-Bagshui owes [so much to so many people](Credits.md).
-
-
-## Future
-
-I haven't actually played WoW for a long time, and I think it's time for me to move on. There is some work-in-progress code on the dev branch that anyone is free to pick up and continue.
-
-<br><br>
